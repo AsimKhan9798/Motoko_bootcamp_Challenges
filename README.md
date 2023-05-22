@@ -3,9 +3,6 @@
 Running the project locally
 To test the project locally, use the following commands:
 
-# Set rust backtrace to get more useful debug info when things go wrong
-export RUST_BACKTRACE=full
-
 # Starts the replica, running in the background
 dfx start --clean --background
 

@@ -1,6 +1,10 @@
 # Motoko_bootcamp_Challenges
 
-Running the project locally
+# Create New IC project on below command:
+1. dfx new hello
+
+# Change the code & dfx.json file in the backend section.
+
 To test the project locally, use the following commands:
 
 # Starts the replica, running in the background
